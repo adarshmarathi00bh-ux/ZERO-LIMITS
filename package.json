@@ -1,0 +1,16 @@
+{
+  "name": "queuezero",
+  "version": "1.0.0",
+  "description": "QueueZero: AI pre-order and load-balanced pickup slots for college canteens",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm --prefix server install && npm --prefix client install",
+    "dev": "concurrently -n api,web -c yellow,cyan \"npm --prefix server run dev\" \"npm --prefix client run dev\"",
+    "build": "npm --prefix client run build",
+    "start": "npm --prefix server start",
+    "test": "npm --prefix server test"
+  },
+  "devDependencies": { "concurrently": "^9.0.1" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
