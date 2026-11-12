@@ -1,6 +1,6 @@
 # QueueZero
 
-**Skip the line, not the meal.** An AI pre-order system for college canteens: order in plain language (English, Hindi or Hinglish), pick a load-balanced pickup slot, and let the kitchen see exactly what to cook, live.
+   ![License: MITE](https://img.shields.io/badge/license-MITE-blue) An AI pre-order system for college canteens: order in plain language (English, Hindi or Hinglish), pick a load-balanced pickup slot, and let the kitchen see exactly what to cook, live.
 
 > Built for the hackathon problem: *"Long queues make students miss classes. Build a pre-order system with plain-language ordering, load-balanced pickup slots, and a live kitchen view."*
 
