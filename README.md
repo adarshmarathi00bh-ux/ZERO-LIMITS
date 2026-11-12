@@ -130,8 +130,8 @@ queuezero/
 
 | Name | Role | GitHub |
 |---|---|---|
-| _Member 1_ | Backend and slot algorithm | @username |
-| _Member 2_ | Frontend and UX | @username |
-| _Member 3_ | AI, demo and pitch | @username |
+| Adarsh P M | Backend and slot algorithm | Adarsh_Marathi |
+| Darshan | Frontend and UX | Darshan-tech-ai |
+| Shama OS | AI, demo and pitch | shamaos963-eng |
 
-MIT licensed.
+MITE licensed.
